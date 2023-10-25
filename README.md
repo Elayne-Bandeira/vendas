@@ -34,6 +34,9 @@ Acesso:
 Aula Hastag Programação:
 https://youtu.be/kCMaqla6Grs?si=mByNZf6GVJHdkKF2
 
+Base utilizada:
+https://docs.google.com/spreadsheets/d/1SF_2iixTSnFDVw8ccFJFaFQC6IEEIdQ_/edit?usp=drive_link
+
 Meus Gráficos:
 ![image](https://github.com/Elayne-Bandeira/vendas/assets/148989698/dd8b5e4d-4ca3-4bde-b9cc-b71db56c9ce9)
 ![image](https://github.com/Elayne-Bandeira/vendas/assets/148989698/18abf70e-c84d-47fd-8722-feadbead3e03)
