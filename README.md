@@ -16,7 +16,7 @@ Observações:
 
 ° Primeiro procurei saber os valores finais de cada loja:
 
-Por meio do dados conseguir analisar que a loja chamada Iguatemi Campinas têm as maiores vendas e consequentemente possui o maior valor final de todas as cinco lojas. Além disso, conseguir visualizar que a loja Iguatemi Esplanada possui o menor valor final.
+Por meio do dados conseguir analisar que a loja chamada Iguatemi Campinas têm as maiores vendas e consequentemente possui o maior valor final de todas as cinco lojas. Além disso, consegui visualizar que a loja Iguatemi Esplanada possui o menor valor final.
 
 ° A minha outra ideia foi analisar qual produto mais vendido:
 
