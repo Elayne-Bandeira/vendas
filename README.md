@@ -6,7 +6,9 @@ Desafio
 ° Deseja aumentar suas vendas
 ° Informações disponívies: Base de dados 
 
-Base de dados disponibilizada pelo canal da Hashtag Programação onde uma loja fictícia deseja aumentar suas vendas. Está é a minha primeira análise de dados :)
+Base de dados disponibilizada pelo canal da Hashtag Programação onde uma loja fictícia deseja aumentar suas vendas. 
+
+Está é a minha primeira análise de dados :)
 
 Relatório 
 
@@ -28,7 +30,7 @@ Soluções:
 
 A solução sugerida é que o produto bermuda liso seja colocado em todas as outras 4 lojas, visto que sua grande saída na loja Iguatemi Campinas justifica essa ação com isso todas as outras lojas poderam ter um aumento em sua vendas. Outra solução é continuar mantendo o produto bermunda linho que apesar de apresentar baixas vendas possui um ótimo faturamento em relação ao faturamento de outras peças das lojas. 
 
-Acessos:
+Acesso:
 Aula Hastag Programação:
 https://youtu.be/kCMaqla6Grs?si=mByNZf6GVJHdkKF2
 
