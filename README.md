@@ -6,7 +6,9 @@ Desafio
 ° Deseja aumentar suas vendas
 ° Informações disponívies: Base de dados 
 
-Está é a minha primeira análise de dados :) (Base de dados disponibilizada pelo canal da Hashtag Programação onde uma loja fictícia deseja aumentar suas vendas) 
+Está é a minha primeira análise de dados :) 
+
+Base de dados disponibilizada pelo canal da Hashtag Programação onde uma loja fictícia deseja aumentar suas vendas) 
 
 
 Relatório 
